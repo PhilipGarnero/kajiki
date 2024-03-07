@@ -54,7 +54,7 @@ The git repository and `issue tracker`_ are at GitHub_. Previously the project
 used SourceForge_ for the hg repository, issue tracker and forums.
 
 
-.. _Documentation: https://docs.kajiki.io/
+.. _Documentation: http://kajiki.readthedocs.io/
 .. _license: https://github.com/jackrosenthal/kajiki/blob/master/LICENSE.rst
 .. _`issue tracker`: https://github.com/jackrosenthal/kajiki/issues
 .. _GitHub: https://github.com/jackrosenthal/kajiki
